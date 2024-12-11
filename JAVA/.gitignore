@@ -1,0 +1,14 @@
+# Ignore build and IDE-specific files
+bin/
+obj/
+*.class
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore node_modules (if applicable)
+node_modules/
